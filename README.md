@@ -1,1 +1,3 @@
 # Jira
+
+adaug primul commit
